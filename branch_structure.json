@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/error-boundary",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/error-boundary": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/error-boundary",
+    "origin"
+  ]
+}
